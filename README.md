@@ -97,8 +97,7 @@ http://localhost:3000
 
 ## 🌐 Live Demo
 
-🔗 https://your-vercel-link.vercel.app
-(Add your deployed link here)
+https://meal-mind-ai-two.vercel.app/
 
 ---
 
@@ -111,12 +110,6 @@ NEXT_PUBLIC_API_KEY=your_api_key_here
 ```
 
 > ⚠️ Never expose sensitive API keys publicly.
-
----
-
-## 📸 Screenshots
-
-(Add screenshots of your UI here for better presentation)
 
 ---
 
