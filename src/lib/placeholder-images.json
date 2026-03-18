@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-food",
+      "description": "Healthy balanced meal bowl",
+      "imageUrl": "https://picsum.photos/seed/meal1/1200/800",
+      "imageHint": "healthy food"
+    },
+    {
+      "id": "cooking-prep",
+      "description": "Fresh vegetables on a cutting board",
+      "imageUrl": "https://picsum.photos/seed/meal2/800/600",
+      "imageHint": "cooking ingredients"
+    },
+    {
+      "id": "cuisine-italian",
+      "description": "Delicious pasta dish",
+      "imageUrl": "https://picsum.photos/seed/meal3/600/400",
+      "imageHint": "italian food"
+    },
+    {
+      "id": "cuisine-asian",
+      "description": "Stir fry noodles",
+      "imageUrl": "https://picsum.photos/seed/meal4/600/400",
+      "imageHint": "asian food"
+    },
+    {
+      "id": "cuisine-mexican",
+      "description": "Taco platter",
+      "imageUrl": "https://picsum.photos/seed/meal5/600/400",
+      "imageHint": "mexican food"
+    }
+  ]
+}
