@@ -149,7 +149,7 @@ This project is for educational and personal use.
 ## 👨‍💻 Author
 
 **Krisha Pajvani**
-BCA (Honours) Student
+BCA Student
 
 ---
 
